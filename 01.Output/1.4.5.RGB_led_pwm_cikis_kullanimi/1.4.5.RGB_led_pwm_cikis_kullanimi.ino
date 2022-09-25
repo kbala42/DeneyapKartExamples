@@ -4,7 +4,7 @@ Programın Adı: Analog çıkışla Ana RGB renkleri
 Programın Amacı: Analog çıkışı kullanarak değişik renkler elde etmek
 
 
-azan: Kamil Bala
+Yazan: Kamil Bala
        kamilbala42@gmail.com
        tw: @tek_elo   
        Yalova Deneyap Atelyesi / 2022
