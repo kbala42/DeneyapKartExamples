@@ -25,13 +25,13 @@ void setup()
    
   int pinler[] = {D0, D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13}; // pinleri bir dizi şeklinde tanımlıyoruz
   
-  //6'dan 13 kadar pinleri 1 arttırarak fonksiyonu yürütüyoruz
+  //6'dan 13 kadar pinleri 1 arttırarak fonksiyonu yürütüyoruz. 6-13 arası pinleri çıkış atıyoruz
   for(int i=6;i<14;i++)
   {
     //iPin o anki içeriğini çıkış pini olarak atıyoruz
     pinMode(pinler[i], OUTPUT);
   }
-  
+  // 0-5 arası pinleri giriş atıyoruz
   for(int i=0; i<6;i++)
   {
   	pinMode(pinler[i],INPUT);//5 pini giriş olarak atıyoruz
@@ -42,35 +42,35 @@ void setup()
 void loop()
 {  
 
-/*
-  if(digitalRead(5)==HIGH)//eger 5. pin HIGH ise
+
+  if(digitalRead(D5)==HIGH)//eger 5. pin HIGH ise
   {
     sagaDogruToplama();
   }
-  if(digitalRead(4)==HIGH)//eger 4. pin HIGH ise
+  if(digitalRead(D4)==HIGH)//eger 4. pin HIGH ise
   {
     solaDogruToplama();
   }
   
-  if(digitalRead(3)==HIGH)//eger 3. pin  HIGH  ise
+  if(digitalRead(D3)==HIGH)//eger 3. pin  HIGH  ise
   {
     ictenDisariToplama();
   }
-  if(digitalRead(2)==HIGH)//eger 2. pin  HIGH  ise
+  if(digitalRead(D2)==HIGH)//eger 2. pin  HIGH  ise
   {
      distanIceriToplama();
   }
   
-  if(digitalRead(1)==HIGH)//eger 1. pin  HIGH  ise
+  if(digitalRead(D1)==HIGH)//eger 1. pin  HIGH  ise
   {
      distanIce();
   }
   
-  if(digitalRead(0)==LOW)//eger 0. pin  HIGH  ise
+  if(digitalRead(D0)==LOW)//eger 0. pin  HIGH  ise
   {
      ictenDisa(); 
   }
- */
+ 
 }
 
 void sagaDogruToplama()
