@@ -17,8 +17,11 @@ https://www.tinkercad.com/things/0WKMjnKHO6X-1111servo-motor-kontrolu/editel
 
 #include "deneyap.h"
  
-#include <Servo.h>  // Servo kütüphanesi alıyoruz
+// #include <Servo.h>  // Servo kütüphanesi alıyoruz
 // motoru kütüphaneden çağırıyoruz ,hazır yüklüdür 
+
+#include <ESP32Servo.h>
+
 Servo sg90;  // Servo sınıfından sg90 nesnesini oluşturuyoruz
 // servoda sg90 isminde nesne oluşturduk
 void setup()
