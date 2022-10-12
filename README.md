@@ -2,7 +2,7 @@
 
 <H2><i> Deneyap Kart Örnekleri </i></H2>
 
-<H3><i>1.Dijital Çıkış</H3>
+<H3><i>1.Dijital Çıkış (112 program) </H3>
 
 1.1.Led Outputs
 
@@ -26,7 +26,7 @@
 
 1.13.relay
 
-<H3><i>2.Dijital Giriş (Buton)</i></H3>
+<H3><i>2.Dijital Giriş (Buton) (43 program)</i></H3>
 
 2.1.Button
 
@@ -46,7 +46,7 @@
 
 2.9.Debounce
 
-<H3><i>3. Analog Giriş</i></H3>
+<H3><i>3. Analog Giriş (7 program) </i></H3>
 
 3.1.analogIn_pot
 
