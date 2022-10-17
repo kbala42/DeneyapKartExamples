@@ -79,25 +79,106 @@ https://www.tinkercad.com/things/d7PdRlG7xmt-1216birbiri-icinde-gecen-ledler
 <br> 
 
 <H3>1.3.LED fonksiyonlar</H3>
+1.3.1.Kullanıcı tanımlı fonksiyonlar<br>
+https://www.tinkercad.com/things/4nuzdfuWXex-131kullanici-tanimli-fonksiyonlar
 
+1.3.2.Rastgele Fonksiyonlar ve switch yapısı<br>
+https://www.tinkercad.com/things/dd3GX8Fs6Ut-132rastgele-fonksiyonlar-ve-switch-yapisi
 
-1.4.RGB
+1.3.3.Bir tuşa basınca rastgele led yanıp söndürme<br>
+https://www.tinkercad.com/things/hZh3KGYb39M-133bir-tusa-basinca-rastgele-led-yanip-sondurme
 
-1.5.Sayaç
+<br>
 
-1.6.LCD
+<H3>1.4.RGB</H3>
+1.4.1. RGB temel ayrı üç ledi yakıp söndürme<br>
+https://www.tinkercad.com/things/2VLBEUFsKNB-141-rgb-temel-ayri-uc-ledi-yakip-sondurme
 
-1.7.Neopixel
+1.4.2. RGB ledi yakıp söndürme<br>
+https://www.tinkercad.com/things/cJGS6bBenKk-142-rgb-ledi-yakip-sondurme
 
-1.8.cikis_cogullama
+1.4.3. RGB ledi yakıp söndürme - fonksiyon<br>
+https://www.tinkercad.com/things/gKGFkIG87j4-143-rgb-ledi-yakip-sondurme-fonksiyon
 
-1.11.Servo Motor
+1.4.4. RGB dijital tüm renkler<br>
+https://www.tinkercad.com/things/b88rjbaLgzf-144-rgb-dijital-tum-renkler
 
-1.12.DC Motor
+1.4.5. Analog çıkışla RGB led yakmak<br>
+https://www.tinkercad.com/things/fi8Hun4eDTI-145-analog-cikisla-rgb-led-yakmak
 
-1.13.relay
+1.4.6. Analog Çıkışla RGB kırmızı renk bant elde etmek<br>
+https://www.tinkercad.com/things/8VyT9WFc7dY-146-analog-cikisla-rgb-kirmizi-renk-bant-elde-etmek
 
-<H3><i>2.Dijital Giriş (Buton) (43 program)</i></H3>
+1.4.7. RGB yeşil renk bant<br>
+https://www.tinkercad.com/things/iTWPd5YZjDm-147-rgb-yesi-renk-bant
+
+1.4.8. RGB mavi renk bandı<br>
+https://www.tinkercad.com/things/fODJwAKuHvu-148-rgb-mavi-renk-bandi
+
+1.4.9. RGB tüm renk bantları<br>
+https://www.tinkercad.com/things/f0dKQcMfoh4-149-rgb-tum-renk-bantlari
+
+<br>
+
+<H3>1.5.Sayaç</H3>
+1.5.1.Ortak katot display çalıştırma<br>
+https://www.tinkercad.com/things/ex2mXTD80lM-151ortak-katot-display-calistirma
+
+1.5.2.Ortak anot display çalıştırma<br>
+https://www.tinkercad.com/things/c3BtHXOY4sY-152ortak-anot-display-calistirma
+
+1.5.3.Sayaç (0-9) CD4511<br>
+https://www.tinkercad.com/things/3ZZCcgb2mr3-153sayac-0-9-cd4511
+
+1.5.4.CD4511 ile 0-99 sayaç yapımı<br>
+https://www.tinkercad.com/things/ibwEPXbJI6U-154cd4511-ile-0-99-sayac-yapimi
+
+1.5.5.CD4511 ile 0-999 sayaç yapımı<br>
+https://www.tinkercad.com/things/i5EAu0beV6d-155cd4511-ile-0-999-sayac-yapimi
+
+<br>
+
+<H3>1.6.LCD</H3>
+1.6.1.LCD Merhaba Dünya<br>
+https://www.tinkercad.com/things/jydLPK6AQU2-161lcd-merhaba-dunya
+
+<br>
+
+<H3>1.7.Neopixel</H3>
+1.7.1.neopixel temel kullanımı<br>
+https://www.tinkercad.com/things/fCiHz3QkhP6-171neopixel-temel-kullanimi
+
+1.7.2.neopixel dizisi<br>
+https://www.tinkercad.com/things/0zMwlvE3tlf-172neopixeldizisi
+
+1.7.3.NeoPixel Strip<br>
+https://www.tinkercad.com/things/c0vWgipX58x-173neopixel-strip
+
+<br>
+
+<H3>1.8.cikis_cogullama</H3>
+
+<br>
+
+<H3>1.11.Servo Motor</H3>
+1.11.1.servo motor kontrolü<br>
+https://www.tinkercad.com/things/0WKMjnKHO6X-1111servo-motor-kontrolu
+
+<br>
+
+<H3>1.12.DC Motor</H3>
+1.12.1.DC Motor Çalıştırma<br>
+https://www.tinkercad.com/things/f90vKEGL1xA-1121dc-motor-calistirma
+
+<br>
+
+<H3>1.13.relay</H3>
+1.13.1.relay and bulb<br>
+https://www.tinkercad.com/things/3MPEHQJTE8F-1131relay-and-bulb
+
+<br>
+
+<H2><i>2.Dijital Giriş (Buton) (43 program)</i></H2>
 
 2.1.Button
 
