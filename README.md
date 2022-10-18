@@ -458,70 +458,100 @@ https://www.tinkercad.com/things/fdXGV8assei-444-pololu-3-potreverse-fade-burn
 <H2><i>5. Sensörler</i></H2>
 
 <H3>5.1.Sensors_LDR</H3>
-5.1.1.LDR deger okuma
+5.1.1.LDR deger okuma <br>
 https://www.tinkercad.com/things/8hP3q5qh0KD-511ldrdegerokuma
 
-5.1.2.Işığa bağlı_led_parlaklığını_ayarlama
+5.1.2.Işığa bağlı_led_parlaklığını_ayarlama <br>
 https://www.tinkercad.com/things/6C5MyBTDZ57-512isigibagliledparlakliginiayarlama
 
-5.1.3.Sokak_Lambası
+5.1.3.Sokak_Lambası<br>
 https://www.tinkercad.com/things/4e2njLhwT0K-513sokaklambasi
 
-5.1.4. Ortam ışığına bağlı olarak ampul ve uyarı açıp/kapatma
+5.1.4. Ortam ışığına bağlı olarak ampul ve uyarı açıp/kapatma<br>
 https://www.tinkercad.com/things/kFHLHD3qE3N-514ldralarm 
 
-5.1.5.ldr_Sayaç_0-9
+5.1.5.ldr_Sayaç_0-9<br>
 https://www.tinkercad.com/things/3NWAk3hLk0z-515ldrsayac0-9
 
-5.1.6.ldr ile karanlık arttıkça ledleri (lambaları) yakmak
+5.1.6.ldr ile karanlık arttıkça ledleri (lambaları) yakmak<br>
 https://www.tinkercad.com/things/f9aBVbMidpb-516ldr-ile-karanlik-arttikca-ledleri-lambalari-yakmak
 
-ç.5.1.7.ldr ile rgb led kontrolü
+ç.5.1.7.ldr ile rgb led kontrolü<br>
 https://www.tinkercad.com/things/aty5Srce6aD-517ldr-ile-rgb-led-kontrolu
 
 <H3>5.2.Sensors_PIR</H3>
-5.2.1.PIR_hareket algılama
+5.2.1.PIR_hareket algılama<br>
 https://www.tinkercad.com/things/27jPm32tMxx-521pirhareketalgilama
 
-5.2.2.PIR_pwm_1
+5.2.2.PIR_pwm_1<br>
 https://www.tinkercad.com/things/1mutBylwD3P-522pirpwm1
 
-5.2.3.PIR_karanlıkta hareket duyarlı devre
+5.2.3.PIR_karanlıkta hareket duyarlı devre<br>
 https://www.tinkercad.com/things/7DHDVzrK9rD-523pirkaranlikta-hareket-duyarli-devre
 
-5.2.3.PIR_karanlıkta hareket duyarlı devre
+5.2.3.PIR_karanlıkta hareket duyarlı devre<br>
 https://www.tinkercad.com/things/8XKzb6923IG-52pir-sensor/editel
 
-5.2.5. Çoklu Pır Hareket Sensör Kullanımı
+5.2.5. Çoklu Pır Hareket Sensör Kullanımı<br>
 https://www.tinkercad.com/things/adhwCY1iMOJ-525-coklu-pir-hareket-sensor-kullanimi
 
-5.2.6.PIR_Mutfak 3 LEDs
+5.2.6.PIR_Mutfak 3 LEDs<br>
 https://www.tinkercad.com/things/coyfiVmqqLj-526pirmutfak-3-leds
 
 
 <H3>5.3.Sensors_Temperature</H3>
-5.3.1.Sıcaklık sensörü değerlerini okumak
+5.3.1.Sıcaklık sensörü değerlerini okumak<br>
 https://www.tinkercad.com/things/cPknggeaU59-531sicaklik-sensoru-degerlerini-okumak
 
-5.3.2.Sıcaklı değeri led uyarıları
+5.3.2.Sıcaklı değeri led uyarıları<br>
 https://www.tinkercad.com/things/4Of4R3a72QD-532sicakli-degeri-led-uyarilari
 
-5.3.3.Sıcaklı değerine bağlı dc motor hız ayarı
+5.3.3.Sıcaklı değerine bağlı dc motor hız ayarı<br>
 https://www.tinkercad.com/things/12ZFvDXj2to-533sicakli-degerine-bagli-dc-motor-hiz-ayari
 
 <H3>5.4.Sensors_Ulrosonic</H3>
 
+5.4.1.Ultrasonic mesafe sensörü<br>
+https://www.tinkercad.com/things/kNAcAq2Dshi-551ultrasonic-mesafe-sensoru
+
+5.4.2.Ultrasonic sensör ile otomatik su tankı ve LCD<br>
+https://www.tinkercad.com/things/bnNFi6bcFCO-542ultrasonic-sensor-ile-otomatik-su-tanki-ve-lcd-
+
+5.4.3.LCD ile mesafe ölçme ve alarm<br>
+https://www.tinkercad.com/things/aBw0oC1VD32-543lcd-ile-mesafe-olcme-ve-alarm 
+
+5.4.4.Mesafeye bağlı olarak L293D ile motor kontrolü<br>
+https://www.tinkercad.com/things/gt81QrzG6xE-544l293 
+
+5.4.5.Proximity Bot<br>
+https://www.tinkercad.com/things/4iYLGbIz83Y-545proximity-bot 
+
+5.4.6.Obstacle avoidance Car<br>
+https://www.tinkercad.com/things/kBlvumOTCPS-546obstacle-avoidance-car 
+
+5.4.7. Adaptive Cruise Control Basic Concept<br>
+https://www.tinkercad.com/things/1pGIa93RVrL-547adaptivecruisecontrolbasicconcept 
+
+5.4.8.L293 Ultrasonik kontrol<br>
+https://www.tinkercad.com/things/1KdnrTL5AHH-548l293-ultrasonik 
+
+5.4.9. Ultrasonik sensörle yön kontrolü<br>
+https://www.tinkercad.com/things/8X7LuClIMo2-549l293d/editel
+
+5.5.10.Ultrasonic Distance Sensor LED Bar Graph (Blocks)<br>
+https://www.tinkercad.com/things/j35IjdsDf59-5510ultrasonic-distance-sensor-led-bar-graph-block
+
 <H3>5.5.IR sensor</H3>
-5.5.1.IR_herhangi bir tus basili ise led yakma
+5.5.1.IR_herhangi bir tus basili ise led yakma<br>
 https://www.tinkercad.com/things/k3MaixhHpu4-551irherhangi-bir-tus-basili-ise-led-yakma
 
-5.5.2.IR_tuş degeri okuma
+5.5.2.IR_tuş degeri okuma<br>
 https://www.tinkercad.com/things/ad4rmnPLwFR-552irtus-degeri-okuma
 
-5.5.3.IR tusa karsi gelen ledi yakmak
+5.5.3.IR tusa karsi gelen ledi yakmak<br>
 https://www.tinkercad.com/things/k3uPIaH0Sa1-553ir-tusa-karsi-gelen-ledi-yakmak
 
-5.5.4.IR ile neopixel kontrolü sensor
+5.5.4.IR ile neopixel kontrolü sensor<br>
 https://www.tinkercad.com/things/aDw7XGRJOWz-55ir-sensor
 
 
