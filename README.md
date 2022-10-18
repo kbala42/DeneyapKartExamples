@@ -391,6 +391,36 @@ https://www.tinkercad.com/things/hCPLTYBaHVl-317-potlarla-ile-6-eksen-kontrolu/e
 
 5.6.Toprak Nem Sensörü - soil moisture sensor
 
+<H3>5.6.Soil Moisture – Yağmur Sensörü</H3>
+
+
+5.6.1.yagmur uyarısı led yak_söndür<br>
+https://www.tinkercad.com/things/gH8VkUdX97V-561yagmur-uyarisiled-yak/editel
+
+5.6.2.Uyarı seviyesi ledleri<br>
+https://www.tinkercad.com/things/fbnYGdUTh8N-562uyari-seviyesi-ledleri/editel
+
+5.6.3. Yağmur sensör değerlerini yüzde olarak okumak<br>
+https://www.tinkercad.com/things/6QfISBk3F0y-563yagmur-sensoru-degerler/editel
+
+5.6.4.Nem seviyesine göre uyarı sesi<br>
+https://www.tinkercad.com/things/7Tvt4gJGkIw-56soil-moisture-sensor/editel
+
+5.6.5. Uyarı seviyelerini değiştirmek<br>
+https://www.tinkercad.com/things/dYT4wcKq3lU-56-adjust-soil-moisture/editel
+
+5.6.6.Uyarı seviyesine göre motor kontrolü<br>
+https://www.tinkercad.com/things/9XOMJpx1tfE-566uyari-seviyesine-gore-motor-kontrolu/editel
+
+5.6.7.Yagmur sensörü değerini seri lcdden okuma<br>
+https://www.tinkercad.com/things/5uANhgHQzic-567yagmur-sensoru-degerini-seri-lcdden-okuma
+
+5.6.8.Yağmur sensörü ile pompa kontrolü<br>
+https://www.tinkercad.com/things/aaazBsHLvf7-568yagmur-sensoru-ile-pompa-kontrolu/editel
+
+5.6.9. nem seviyelerini iki cihazdan okumak<br>
+https://www.tinkercad.com/things/g0J2u95l3sX-569-nem-seviyelerini-iki-cihazdan-okumak-/editel
+
 5.7.Sensors_Gas 
 
 5.8.flex sensor
