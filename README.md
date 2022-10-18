@@ -458,19 +458,74 @@ https://www.tinkercad.com/things/fdXGV8assei-444-pololu-3-potreverse-fade-burn
 <H2><i>5. Sensörler</i></H2>
 
 <H3>5.1.Sensors_LDR</H3>
+5.1.1.LDR deger okuma
+https://www.tinkercad.com/things/8hP3q5qh0KD-511ldrdegerokuma
+
+5.1.2.Işığa bağlı_led_parlaklığını_ayarlama
+https://www.tinkercad.com/things/6C5MyBTDZ57-512isigibagliledparlakliginiayarlama
+
+5.1.3.Sokak_Lambası
+https://www.tinkercad.com/things/4e2njLhwT0K-513sokaklambasi
+
+5.1.4. Ortam ışığına bağlı olarak ampul ve uyarı açıp/kapatma
+https://www.tinkercad.com/things/kFHLHD3qE3N-514ldralarm 
+
+5.1.5.ldr_Sayaç_0-9
+https://www.tinkercad.com/things/3NWAk3hLk0z-515ldrsayac0-9
+
+5.1.6.ldr ile karanlık arttıkça ledleri (lambaları) yakmak
+https://www.tinkercad.com/things/f9aBVbMidpb-516ldr-ile-karanlik-arttikca-ledleri-lambalari-yakmak
+
+ç.5.1.7.ldr ile rgb led kontrolü
+https://www.tinkercad.com/things/aty5Srce6aD-517ldr-ile-rgb-led-kontrolu
 
 <H3>5.2.Sensors_PIR</H3>
+5.2.1.PIR_hareket algılama
+https://www.tinkercad.com/things/27jPm32tMxx-521pirhareketalgilama
+
+5.2.2.PIR_pwm_1
+https://www.tinkercad.com/things/1mutBylwD3P-522pirpwm1
+
+5.2.3.PIR_karanlıkta hareket duyarlı devre
+https://www.tinkercad.com/things/7DHDVzrK9rD-523pirkaranlikta-hareket-duyarli-devre
+
+5.2.3.PIR_karanlıkta hareket duyarlı devre
+https://www.tinkercad.com/things/8XKzb6923IG-52pir-sensor/editel
+
+5.2.5. Çoklu Pır Hareket Sensör Kullanımı
+https://www.tinkercad.com/things/adhwCY1iMOJ-525-coklu-pir-hareket-sensor-kullanimi
+
+5.2.6.PIR_Mutfak 3 LEDs
+https://www.tinkercad.com/things/coyfiVmqqLj-526pirmutfak-3-leds
+
 
 <H3>5.3.Sensors_Temperature</H3>
+5.3.1.Sıcaklık sensörü değerlerini okumak
+https://www.tinkercad.com/things/cPknggeaU59-531sicaklik-sensoru-degerlerini-okumak
+
+5.3.2.Sıcaklı değeri led uyarıları
+https://www.tinkercad.com/things/4Of4R3a72QD-532sicakli-degeri-led-uyarilari
+
+5.3.3.Sıcaklı değerine bağlı dc motor hız ayarı
+https://www.tinkercad.com/things/12ZFvDXj2to-533sicakli-degerine-bagli-dc-motor-hiz-ayari
 
 <H3>5.4.Sensors_Ulrosonic</H3>
 
 <H3>5.5.IR sensor</H3>
+5.5.1.IR_herhangi bir tus basili ise led yakma
+https://www.tinkercad.com/things/k3MaixhHpu4-551irherhangi-bir-tus-basili-ise-led-yakma
+
+5.5.2.IR_tuş degeri okuma
+https://www.tinkercad.com/things/ad4rmnPLwFR-552irtus-degeri-okuma
+
+5.5.3.IR tusa karsi gelen ledi yakmak
+https://www.tinkercad.com/things/k3uPIaH0Sa1-553ir-tusa-karsi-gelen-ledi-yakmak
+
+5.5.4.IR ile neopixel kontrolü sensor
+https://www.tinkercad.com/things/aDw7XGRJOWz-55ir-sensor
+
 
 <H3>5.6.Toprak Nem Sensörü - soil moisture sensor</H3>
-
-<H3>5.6.Soil Moisture – Yağmur Sensörü</H3>
-
 
 5.6.1.yagmur uyarısı led yak_söndür<br>
 https://www.tinkercad.com/things/gH8VkUdX97V-561yagmur-uyarisiled-yak/editel
@@ -499,16 +554,136 @@ https://www.tinkercad.com/things/aaazBsHLvf7-568yagmur-sensoru-ile-pompa-kontrol
 5.6.9. nem seviyelerini iki cihazdan okumak<br>
 https://www.tinkercad.com/things/g0J2u95l3sX-569-nem-seviyelerini-iki-cihazdan-okumak-/editel
 
-5.7.Sensors_Gas 
+<H3>5.7.Sensors_Gas </H3>
+5.7.1.MQ-2 Sigara duman sensörü<br>
+https://www.tinkercad.com/things/0NkmYYbYhPo-571mq-2-sigara-duman-sensoru/editel
 
-5.8.flex sensor
+5.7.2.mq display<br>
+https://www.tinkercad.com/things/eMkmilYZE9j-57mq/editel
 
-5.9.tilt sensor
+5.7.3.Gaza yakınlığına bağlı uyarı sesi üretmek<br>
+https://www.tinkercad.com/things/2GJ2ga7OuiN-57guide-for-mq-2-gassmoke-sensor-with-arduino181173516/editel
 
-5.10.force sensor
+5.7.4.Eşik değere göre led ve buzzer kontrol<br>
+https://www.tinkercad.com/things/6Bjeg73HeMP-57smoke-detection-using-mq-2-gas-sensor/editel
 
-<H3><i>6.SPI_communication</i></H3>
+5.7.5.Eşik değere göre uyarı seviyesi değiştirmek<br>
+https://www.tinkercad.com/things/8SWB36ofhW4-57sensor-de-gas-mq-xx/editel
 
-<H3><i>7.I2C_communication</i></H3>
+5.7.6.Işık ve uyarı seviyesine göre alarm<br>
+https://www.tinkercad.com/things/i1NhsHvs1lo-57-arduino-sensore-gas-mq-2-mq-5/editel
 
-<H3><i>8. Uygulamalar</i></H3>
+5.7.7.Uyaran seviyesini LCDde okuma<br>
+https://www.tinkercad.com/things/92N8EsISVp2-57mq-2-gas-sensor-final-design/editel
+
+5.7.8.Gaz, sıcaklık ve mesafe değişimini LCDde okumak<br>
+https://www.tinkercad.com/things/9l2UoHXECYp-57arduino-lcdgastempdistance/editel
+
+5.7.9.Bir Akıllı Ev sistemini incelemek<br>
+https://www.tinkercad.com/things/3C9zD81XySt-57uas-3-smart-home/editel
+
+5.7.10.Hassas gaz sensörü<br>
+https://www.tinkercad.com/things/5RewM1yXotX-57sensor-de-gases-mq-2-uhu-universidad-de-huelva/editel
+
+5.7.11.MQ-8 H2 gaz ppm inceleme<br>
+https://www.tinkercad.com/things/8PtlhHQRbFI-57mq-8-h2-gas-sensor/editel
+
+<H3>5.8.flex sensor</H3>
+5.8.1.Flex sensor, seri monitör<br>
+https://www.tinkercad.com/things/8wkwB6qMU8L-581flex-sensor-/editel
+
+5.8.2.Flex sensor LCD okumak<br>
+https://www.tinkercad.com/things/gqXNyXqjZyG-582flex-sensor/editel
+
+5.8.3.flex sensor değerine göre uyaran sesi<br>
+https://www.tinkercad.com/things/awh152iV1G7-583flex-sensor-degerine-gore-uyaran-sesi/editel
+
+5.8.4.FLEX değerine göre servo motor kontrolü<br>
+https://www.tinkercad.com/things/fZJQn0Ku5EI-58flex-sensor/editel
+
+5.8.5.iki flex değerine göre iki servo kontrol<br>
+https://www.tinkercad.com/things/dh64ayUlazV-58sensor-flex/editel
+
+5.8.6.4 flex değerine göre 4 servo kontrol<br>
+https://www.tinkercad.com/things/0CmqP6Qcmmw-58flex-sensor/editel
+ 
+
+<H3>5.9.tilt sensor</H3>
+5.9.1.Tilt Sensor çalışması<br>
+https://www.tinkercad.com/things/53MM1y0Vfjk-591tilt-sensor-calismasi/editel
+
+5.9.2.Tilt Sensor - buzzer  uyarı<br>
+https://www.tinkercad.com/things/16XLGPGnjwM-592tilt-sensor-buzzer-uyari/editel
+
+5.9.3.Tilt anahtar - display gösterge<br>
+https://www.tinkercad.com/things/eg6esjrodb3-592tilt-sensor-anahtar/editel
+
+5.9.4.Tilt Sensor- led uyarı<br>
+https://www.tinkercad.com/things/89cDLOPVi5y-59tilt-sensor/editel
+
+5.9.5.Tilt sensor ile servo kontrol<br>
+https://www.tinkercad.com/things/krENq2XsIwn-59-tilt-sensor-servo/editel
+
+5.9.6.Tilt sensor, sürekli tip servo kontrol<br>
+https://www.tinkercad.com/things/j7d2sWaZYO6-59controlling-servo-motor-with-tilt-sensor/editel
+
+5.9.7.Tilt ile 3 servo kontrol <br>
+https://www.tinkercad.com/things/9zXnmlRqfhT-59servo-control-with-tilt-sensor/editel
+
+5.9.8.Tilt dc motor kontrol<br>
+https://www.tinkercad.com/things/kCJz7OgZFuJ-59tilt/editel
+
+5.9.9Tilt sensor LCD monitor<br>
+https://www.tinkercad.com/things/b7G5IHoh5Mj-59tilt-sensor-lcd-motor/editel
+
+5.9.10.Tilt ile 4 dc motor kontrolü<br>
+https://www.tinkercad.com/things/hJ5PGR94fE7-59sensor-tilt/editel
+
+<H3>5.10.force sensor</H3>
+5.10.1.force opamp simetrik besleme<br>
+https://www.tinkercad.com/things/gqz2T07EMut-510force-sensor 
+
+5.10.2.1.Force Sensor Opamp, lamba kontrol<br>
+https://www.tinkercad.com/things/l7hPDbjZGPw-51021force-sensor-opamp-lamba-kontrol/editel
+
+5.10.3.Force sensor değer okuma<br>
+https://www.tinkercad.com/things/8uGiSpemO6G-510force-sensor 
+
+5.10.4.force sensor led uyarı<br>
+https://www.tinkercad.com/things/8l6728GPiKi-510force-sensor/editel
+
+5.10.5.Force sensor eşik değerler<br>
+https://www.tinkercad.com/things/j5lofghjrfj-510force-sensor/editel
+
+5.10.6.Force Sensor alarm<br>
+https://www.tinkercad.com/things/4QjIUQKvNKl-510force-sensor/editel
+
+5.10.7. force sensor newton display<br>
+https://www.tinkercad.com/things/kEOODL2CIYk-510-force-sensor/editel
+
+5.10.8.Force Sensor LCD monitör<br>
+https://www.tinkercad.com/things/1CD0DBcBL7W-510force-sensor/editel
+
+5.10.9.Force lcd FV, LB<br>
+https://www.tinkercad.com/things/6rMumn5XWHl-510force-sensor/editel
+
+5.10.10. Force Sensor ldc buzzer led<br>
+https://www.tinkercad.com/things/jmNVN5dUitd-510-force-sensor/editel
+
+5.10.11. DC motor and Force Sensor<br>
+https://www.tinkercad.com/things/4La8CD4NZKx-510-dc-motor-and-force-sensor/editel
+
+5.10.12.Force Sensor buzzer, servo, rgb<br>
+https://www.tinkercad.com/things/2UjFiXiR84i-510force-sensor/editel
+
+<H3>5.11.Güneş Pili</H3>
+ 
+
+<H3>5.12.Vibration Motor</H3>
+ 
+
+<H2><i>6.SPI_communication</i></H2>
+
+<H2><i>7.I2C_communication</i></H2>
+
+<H2><i>8. Uygulamalar</i></H2>
