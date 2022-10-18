@@ -180,29 +180,192 @@ https://www.tinkercad.com/things/3MPEHQJTE8F-1131relay-and-bulb
 
 <H2><i>2.Dijital Giriş (Buton) (43 program)</i></H2>
 
-2.1.Button
+<H3>2.1.Button</H3>
 
-2.2.Buton ve Fonksiyonlar
+2.1.1.Buton basılı olduğu sürece ledin yakılması<br>
+https://www.tinkercad.com/things/choDf9WeAJJ-211buton-basili-oldugu-surece-ledin-yakilmasi
 
-2.3.Sayac (Counter)
+2.1.2.buton basılı iken led parlaklığının arttırılması<br>
+https://www.tinkercad.com/things/22tZBgXZt1Z-212buton-basili-iken-led-parlakliginin-arttirilmasi
 
-2.4. Buzzer ve Org
+2.1.3.buton bas ledi yak, buton bas ledi söndür (mühürleme)<br>
+https://www.tinkercad.com/things/fsS04WtYE3J-213buton-bas-ledi-yak-buton-bas-ledi-sondur-muhurleme
 
-2.5. Millis
+2.1.4.buton toogle<br>
+https://www.tinkercad.com/things/fQhiTJ0KxSh-214buton-toogle
 
-2.6.External interrupt
+2.1.5.red toggle buton<br>
+https://www.tinkercad.com/things/3rj4GIA0zoS-215red-toggle-buton
 
-2.7.IR_RC Kumanda
+2.1.6.Buton ile harici kesme<br>
+https://www.tinkercad.com/things/54VArqZIIWB-216buton-ile-harici-kesme
 
-2.8.keypad
 
-2.9.Debounce
+<H3>2.2.Buton ve Fonksiyonlar</H3>
+2.2.1.Butonlarla Fonksiyonların kullanımı<br>
+https://www.tinkercad.com/things/82qAVVezbaU-221butonlarla-fonksiyonlarin-kullanimi
 
-<H3><i>3. Analog Giriş (7 program) </i></H3>
 
-3.1.analogIn_pot
+<H3>2.3.Sayaç (Counter)</H3>
+2.3.1.Butonlu Sayac (0-9) CD4511<br>
+https://www.tinkercad.com/things/iJYdaHZEeQ7-231butonlu-sayac-0-9-cd4511
 
-<H3><i>4. Analog Çıkış</i></H3>
+2.3.2.CD4511 ile 0-99 butonlu sayaç yapımı<br>
+https://www.tinkercad.com/things/7eSpL5v7nsN-232cd4511-ile-0-99-butonlu-sayac-yapimi
+
+2.3.3.CD4511 ile 0-99 butonlu sayaç yapımı ileri-geri<br>
+https://www.tinkercad.com/things/0dwzKWmo3Hw-233cd4511-ile-0-99-butonlu-sayac-yapimi-ileri-geri
+
+2.3.4. lcd_0-99 sayaç<br>
+https://www.tinkercad.com/things/0z6naOAGkiz-234sayaclcd0-99
+
+
+<H3>2.4. Buzzer ve Org</H3>
+2.4.1.buzzer kontrolü<br>
+https://www.tinkercad.com/things/bXFGK35k5cc-241buzzer-kontrolu
+
+2.4.2.buzzer ile “süt içtim dilim yandı” çalmak<br>
+https://www.tinkercad.com/things/33kNEahR6Bw-242buzzer-sut-ictim-dilim-yandi
+
+2.4.3.buzzer ile org yapımı<br>
+https://www.tinkercad.com/things/0L0oa5UJnxG-243buzzer-ile-org-yapimi
+
+<H3>2.5. Millis</H3>
+2.5.1.Tek ledi yakıp söndürme _ tek gecikme<br>
+https://www.tinkercad.com/things/2i6vNdcZR0X-251tek-ledi-yakip-sondurme-tek-gecikme
+
+2.5.2.buton toogle milis<br>
+https://www.tinkercad.com/things/03Q2uER2eTA-252buton-toogle-milis
+
+2.5.3. millis  kullanarak İki led aç/kapat<br>
+https://www.tinkercad.com/things/cgugx8Lft5B-253two-led-onoff-millis
+
+2.5.4.buton ve milis kullanarak İki led aç/kapat<br>
+https://www.tinkercad.com/things/0dyJw8SfIaK-254buton-milis-2-led
+
+2.5.5. iki buton ve milis kullanarak İki led aç/kapat<br>
+https://www.tinkercad.com/things/6a50xlKPguV-255milis-2-buton-2-led
+
+2.5.6. millis  kullanarak Sekiz led aç/kapat <br>
+https://www.tinkercad.com/things/6C7ibBiIC4v-256-aeight-ledonoffmillis
+
+<H3>2.6.External interrupt</H3>
+2.6.1.1.Buton ile harici kesme<br>
+https://www.tinkercad.com/things/6FUblcfbQzo-2611buton-ile-harici-kesme
+
+2.6.1.2.Buton ile harici kesme (rasing)<br>
+https://www.tinkercad.com/things/aastiAnkis1-2612buton-ile-harici-kesme-rasing
+
+2.6.1.3.Buton ile harici kesme (rasing,counter)<br>
+https://www.tinkercad.com/things/fpkw6QJTT2n-2613buton-ile-harici-kesme-rasingcounter
+
+2.6.2.1.Led loop Buton ile harici kesme<br>
+https://www.tinkercad.com/things/5eTYcxSgj7B-2621led-loop-buton-ile-harici-kesme
+
+2.6.2.2.Led loop Buton ile harici kesme (rising)<br>
+https://www.tinkercad.com/things/0Yi92sUMNth-2622led-loop-buton-ile-harici-kesme-rising
+
+2.6.3.1.Led loop Buton ile harici kesme sade<br>
+https://www.tinkercad.com/things/0oUCvrTovXH-2631led-loop-buton-ile-harici-kesme-sade
+
+2.6.4.1. led yakma ve sondurme butonlari<br>
+https://www.tinkercad.com/things/fGCgBSpOvQY-2641-led-yakma-ve-sondurme-butonlari
+
+<H3>2.7.IR_RC Kumanda</H3>
+2.7.1.IR kumanda ile 10 LED kontrolü<br>
+https://www.tinkercad.com/things/ad8wpt7qQfd-271ir-kumanda-ile-10-led-kontrolu
+
+
+<H3>2.8.keypad</H3>
+2.8.1.Keypad_seri_monitor<br>
+https://www.tinkercad.com/things/eQFLKH4ZClV-281keypadserimonitor
+
+2.8.2.KeyPad led aç/kapat<br>
+https://www.tinkercad.com/things/akIPy0SHjaT-282keypad
+
+2.8.3.Keypad ile 8 led kontrol<br>
+https://www.tinkercad.com/things/cID3EAOJADZ-283keypadleds-
+
+2.8.4. Keypad sifre kontrol led uyarı<br>
+https://www.tinkercad.com/things/3gJjO5xaXwN-284-keypadsifreled
+
+2.8.5.Keypad şifre doğruysa servo motor kontrol<br>
+https://www.tinkercad.com/things/iNVD0aqHxKg-285keypadservo
+
+2.8.6.keypad şifre uyarısı<br>
+https://www.tinkercad.com/things/7Gp9wK9dydu-286keypadsifreuyari
+
+2.8.7.Keypad ile lcd<br>
+https://www.tinkercad.com/things/hBtrJP4upb3-287keypadlcd
+
+2.8.8.keypad uzaklığa bağlı okumak<br>
+https://www.tinkercad.com/things/bYpm1oYXpgZ-288keypaduzakligabagliokumak
+
+<H3>2.9.Debounce</H3>
+2.9.1.buton sayaçta  debounce problemi<br>
+https://www.tinkercad.com/things/kuPni0cysFu-291buton-counter-debounce
+
+2.9.2.buton debounce problemikondansatör çözümü<br>
+https://www.tinkercad.com/things/dWBQ1UYY1Xv-292buton-debounce-cap
+
+2.9.3.debounce if_if çözümü<br>
+https://www.tinkercad.com/things/4RfjjJMZp08-293debounceififcozumu
+
+2.9.4.buton millis<br>
+https://www.tinkercad.com/things/2oTUK241biK-294buton-millis
+
+2.9.5.Buton debounce time<br>
+https://www.tinkercad.com/things/2WsKjVBC4mZ-295buton-debounce-time
+
+2.9.6.Buton ile harici kesme (ileri programlama) çözümleri<br>
+https://www.tinkercad.com/things/b8NWPaqgUZW-296buton-ile-harici-kesme-advanced
+
+2.9.7.Buton ile harici kesme (ileri programlama) çözümleri ve harici kondansatör<br>
+https://www.tinkercad.com/things/gPAHylRy0S7-297buton-ile-harici-kesme-advancedcap
+
+<H3>2.10.watchdog</H3>
+
+2.10.1.watchdog reset<br>
+https://www.tinkercad.com/things/05UjhpD4jAN-2101watchdog-reset
+
+<H3>2.13.Timer interrupt </H3> 
+
+2.13.1.timer 1s<br>
+https://www.tinkercad.com/things/k0NrzUoT8K7-2131timer-1s
+
+2.13.2.timer 0.5s<br>
+https://www.tinkercad.com/things/5FYjd10B9PT-2132timer-05s
+
+
+<H2><i>3. Analog Giriş (7 program) </i></H2>
+
+<H3>3.1.analogIn_pot</H3>
+
+3.1.1.pot_kullanimi<br>
+https://www.tinkercad.com/things/4aRiqCyoxrX-311potkullanimi
+
+3.1.2.pot ile led parlaklığını_değiştirme<br>
+https://www.tinkercad.com/things/aTrXM8J3vcd-312potileledparlakiginidegistirme
+
+3.1.3.bir potla üç ledin parlaklığını ayarlama<br>
+https://www.tinkercad.com/things/bnF57Iwdeud-313bir-potla-uc-ledin-parlakligini-ayarlama
+
+3.1.4.potla sinyal seviyesine göre led yakma<br>
+https://www.tinkercad.com/things/azNVOz6Ob2C-314potla-sinyal-seviyesine-gore-led-yakma
+
+3.1.5.pot neopixel kullanımı<br>
+https://www.tinkercad.com/things/0aVRt8c7MTi-315pot-neopixel
+
+3.1.6.pot ile servo motor kontrolü<br>
+https://www.tinkercad.com/things/68niRF6C2Hr-316pot-ile-servo-motor-kontrolu
+
+3.1.7.4-Eksen Robot Kol<br>
+https://www.tinkercad.com/things/hl99EDWv13x-314-axis-robot-arm/editel
+
+3.1.8. potlarla ile 6 eksen kontrolü<br>
+https://www.tinkercad.com/things/hCPLTYBaHVl-317-potlarla-ile-6-eksen-kontrolu/editel 
+
+<H2><i>4. Analog Çıkış</i></H2>
 
 4.1.analogOut_pwm
 
