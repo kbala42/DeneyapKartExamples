@@ -367,29 +367,107 @@ https://www.tinkercad.com/things/hCPLTYBaHVl-317-potlarla-ile-6-eksen-kontrolu/e
 
 <H2><i>4. Analog Çıkış</i></H2>
 
-4.1.analogOut_pwm
+<H3>4.1.analogOut_pwm</H3>
 
-4.2.PWM Motor
+4.1.1.pwm ölçümü<br>
+https://www.tinkercad.com/things/cy6SWgnNvaO-411pwm-measurement
 
-4.3.PWM_L293D
+4.1.2.potla PWM frekansi değiştirmek<br>
+https://www.tinkercad.com/things/1DPw5QEWbTp-412potla-pwm-frekansi-degistirmek
 
-4.4.pololu
+4.1.3.pot pwm gözlem<br>
+https://www.tinkercad.com/things/ksniMQfd9au-413pot-pwm-gozlem
 
-4.5.Vibration Motor
+4.1.4.pwm pot buzzer uyarı<br>
+https://www.tinkercad.com/things/f3iRams98ve-414pwmpotbuzzer
 
-<H3><i>5. Sensörler</i></H3>
+4.1.5.pwm çıkışlarını incelemek<br>
+https://www.tinkercad.com/things/jHSeVgW1AZW-415pwm-cikislarini-incelemek
 
-5.1.Sensors_LDR
+4.1.6.Timer kullanarak PWM çıkışları elde etmek<br>
+https://www.tinkercad.com/things/jppu9l8qp86-416pwm-arduino-
 
-5.2.Sensors_PIR
+4.1.7.DC 4 motor kontrolü<br>
+https://www.tinkercad.com/things/9gqILdvWnBB-417dc-4-motor-kontrolu
 
-5.3.Sensors_Temperature
+<H3>4.2.PWM Motor</H3>
+4.2.1.motor pwm<br>
+https://www.tinkercad.com/things/0Fp16we200Y-421motor-pwm
 
-5.4.Sensors_Ulrosonic
+4.2.2.basit pwm ile motor sürme<br>
+https://www.tinkercad.com/things/9lrmBCaQWzz-422basit-pwm-ile-motor-surme
 
-5.5.IR sensor
+4.2.3.Potla DC motor hız ayarı<br>
+https://www.tinkercad.com/things/6iSeBrYNHAj-423potla-dc-motor-hiz-ayari
 
-5.6.Toprak Nem Sensörü - soil moisture sensor
+4.2.4.butonlarla hız motor kontrolü<br>
+https://www.tinkercad.com/things/eMQKQbAqzet-424butonlarla-hiz-motor-kontrolu
+
+
+<H3>4.3.PWM_L293D</H3>
+4.3.1.L293D ile dc motor kontrolü<br>
+https://www.tinkercad.com/things/c1GNMHMwn3o-431l293d-ile-dc-motor-kontrolu
+
+4.3.2.PWM Motor DC kontrolü - L293 yetkilendirme<br>
+https://www.tinkercad.com/things/bR6mZwwUmio-432pwm-motor-dc-con-l293-enable-arduino
+
+4.3.3.L293D ile kod çözücü dc motor kontrolü<br>
+https://www.tinkercad.com/things/6xS66BxaDET-433l293d-ile-kod-cozucu-dc-motor-kontrolu
+
+4.3.4.L293 ve pot ile dc motor hız kontrolü<br>
+https://www.tinkercad.com/things/ewk5GBoVYRd-434l293-ve-pot-ile-dc-motor-hiz-kontrolu
+
+4.3.5. L293D ile 2 dc motor kontrolü<br>
+https://www.tinkercad.com/things/iKRi42PK9UD-435-l293d-ile-2-dc-motor-kontrolu
+
+4.3.6.L293 ileri ileri_geri motor kontrolü<br>
+https://www.tinkercad.com/things/1wdxIkv0ccO-43l293ilerigeri/editel
+
+4.3.7. l293 ile DC motor kontrolü<br>
+https://www.tinkercad.com/things/6PH3RP1GCtn-437-l293
+
+4.3.8.L293 ve iki potla iki motor kontrolü<br>
+https://www.tinkercad.com/things/aMF1GI5kxlN-438l293-ve-iki-potla-iki-motor-kontrolu
+
+4.3.9.L293 ile iki hobi motor kontrolü<br>
+https://www.tinkercad.com/things/f3RUV9YXgwW-439l293-ile-iki-hobi-motor-kontrolu
+
+4.3.10.. l293D 4 motor kontrolü<br>
+https://www.tinkercad.com/things/geL0tkiKc4x-4310-l293d-4-motor
+
+4.3.11.74HC595, 2 x L293D Kullanımı<br>
+https://www.tinkercad.com/things/0zZR3QpMaQL-4311sterowanie-4-silniki-74hc595-2-x-l293d
+
+
+<H3>4.4.pololu</H3>
+4.4.1. Pololu kontrolör<br>
+https://www.tinkercad.com/things/6x1AQD0VEtD-441-pololu-kontrolor
+
+4.4.2.Motor Pololu ile iki motor kontrolü<br>
+https://www.tinkercad.com/things/7DEkLRfpdhS-442motor-pololu-ile-iki-motor-kontrolu
+
+4.4.3.Pololu 2 POT.reverse fade<br>
+https://www.tinkercad.com/things/8DAoSpkjsDZ-443pololu-2-potreverse-fade
+
+4.4.4. Pololu 3 POT.reverse fade burn<br>
+https://www.tinkercad.com/things/fdXGV8assei-444-pololu-3-potreverse-fade-burn
+
+
+<H3>4.5.Vibration Motor</H3>
+
+<H2><i>5. Sensörler</i></H2>
+
+<H3>5.1.Sensors_LDR</H3>
+
+<H3>5.2.Sensors_PIR</H3>
+
+<H3>5.3.Sensors_Temperature</H3>
+
+<H3>5.4.Sensors_Ulrosonic</H3>
+
+<H3>5.5.IR sensor</H3>
+
+<H3>5.6.Toprak Nem Sensörü - soil moisture sensor</H3>
 
 <H3>5.6.Soil Moisture – Yağmur Sensörü</H3>
 
