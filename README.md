@@ -714,6 +714,18 @@ https://www.tinkercad.com/things/2UjFiXiR84i-510force-sensor/editel
 
 <H2><i>6.SPI_communication</i></H2>
 
+ 6.1.SPI haberleşmesi ile led kontrol <br>
+https://www.tinkercad.com/things/bKKwv3Xe32T-spi-led-test/editel
+
+6.2.SPI ile GPIO inceleme<br>
+https://www.tinkercad.com/things/5lcuRa9hOox-spi-with-gpio-demo/editel
+
+6.3.SPI Haberleşme ile motor kontrol<br>
+https://www.tinkercad.com/things/lMz1FRDftiI-63spi-haberlesme-ile-motor-kontrol
+
+6.4.SPI led servo dc kontrol<br>
+https://www.tinkercad.com/things/4LRUEK9VR86-spiledservodc/editel
+
 <H2><i>7.I2C_communication</i></H2>
 
 <H2><i>8. Uygulamalar</i></H2>
