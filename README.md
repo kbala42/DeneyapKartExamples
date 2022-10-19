@@ -156,9 +156,19 @@ https://www.tinkercad.com/things/c0vWgipX58x-173neopixel-strip
 
 <br>
 
-<H3>1.8.cikis_cogullama</H3>
+<H3>18.Transistör Çıkışı kullanmak</H3>
 
-<br>
+1.8.1.transistor surme<br>
+https://www.tinkercad.com/things/iW4qfgVNo5T-181transistor-surme
+
+1.8.2.transistor surme - Giriş direncini büyütme<br>
+https://www.tinkercad.com/things/1rJnQLzPqxD-182transistor-surme-giris-direncini-buyutme
+
+1.8.3.transistor surme - Emiter direnci ve kondansatör etkisi<br>
+https://www.tinkercad.com/things/575kLcVnIhp-183transistor-surme-emiter-direnci-ve-kondansator-etkisi
+
+1.8.4.transistor sürme - harici güç kaynağı kullanmak<br>
+https://www.tinkercad.com/things/eVYdkolbUpU-copy-of-183transistor-surme-emiter-direnci-ve-kondansator-etkisi/editel?tenant=circuits
 
 <H3>1.11.Servo Motor</H3>
 1.11.1.servo motor kontrolü<br>
