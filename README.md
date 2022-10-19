@@ -752,7 +752,24 @@ https://www.tinkercad.com/things/ikEZk3ZPWky-511gunes-pili-tilt-sensor/editel
  
 
 <H3>5.12.Vibration Motor</H3>
- 
+5.12.1.Vibration Motor çalışması<br>
+https://www.tinkercad.com/things/9iLVSLrQAet-45vibration-motor/editel
+
+5.12.2.LDR ile Vibration Motor çalışması<br>
+https://www.tinkercad.com/things/18Ou4yqPQQn-51ldr-with-vibration-motor/editel
+
+5.12.3.Servo ve Vibration Motor çalışması<br>
+https://www.tinkercad.com/things/dZJqr52ZIoq-45servo-and-vibration-motor/editel
+
+5.12.4.Ultrasonic sensor ve Vibration Motor<br>
+https://www.tinkercad.com/things/lyrHzAVYPDu-45ultrasonic-with-vibration-motor/editel
+
+5.12.5.4xUltrasonic sensor ve 4xVibration Motor<br>
+https://www.tinkercad.com/things/7BHkwBujlgd-45vibration-motor-ritesh/editel
+
+5.12.6.Time and Vibration Motor<br>
+https://www.tinkercad.com/things/3k7kXjgaq5k-45vibration-motor/editel
+
 
 <H2><i>6.SPI_communication</i></H2>
 
@@ -769,5 +786,34 @@ https://www.tinkercad.com/things/lMz1FRDftiI-63spi-haberlesme-ile-motor-kontrol
 https://www.tinkercad.com/things/4LRUEK9VR86-spiledservodc/editel
 
 <H2><i>7.I2C_communication</i></H2>
+7.1.I2C slave ledler <br>
+https://www.tinkercad.com/things/4Lg2oGuAoKW-i2c-slave-leds  
+
+7.2.I2C 3 slave led kontrol<br>
+https://www.tinkercad.com/things/7Q6gBqjtOYP-i2c3slave-to-master-control 
+
+7.3.Buton ile I2C 3 slave led kontrol<br>
+https://www.tinkercad.com/things/av7OwZ4b1JQ-i2c3-uno-control 
+
+7.4.Butonlarla I2C 3 led kontrol<br>
+https://www.tinkercad.com/things/j3MuEP81iqT-i2c3buton3led 
+
+7.5.I2C üzerinden 3 servo kontrol<br>
+https://www.tinkercad.com/things/hGWscEZt2CX-i2c3servo 
+
+7.6.I2C ile slave 8 led kontol<br>
+https://www.tinkercad.com/things/eOgS8PA2giF-copy-of-bruno-i2c-drukknop-8-leds 
+
+7.7.I2C ile slave numaratör<br>
+https://www.tinkercad.com/things/kkpSIZ64JGo-copy-of-05-i2c/editel
+
+7.8.I2C ile slave numaratör – 2
+https://www.tinkercad.com/things/9rUIbyg76Al-78i2c-ile-slave-numarator-2
+
+7.9.I2C ile 3x servo motor kontrol<br>
+https://www.tinkercad.com/things/gAzb1KDWgG1-copy-of-i2c-controlled-micro-servo 
+
+7.10.I2C ile otomasyon<br>
+https://www.tinkercad.com/things/6gj2v1qaJS7-copy-of-i2c-datenuebertragung-und-verbraucher-schalten 
 
 <H2><i>8. Uygulamalar</i></H2>
