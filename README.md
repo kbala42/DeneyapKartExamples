@@ -707,6 +707,48 @@ https://www.tinkercad.com/things/4La8CD4NZKx-510-dc-motor-and-force-sensor/edite
 https://www.tinkercad.com/things/2UjFiXiR84i-510force-sensor/editel
 
 <H3>5.11.Güneş Pili</H3>
+
+5.11.1.solar panelin fotodiyot eşdeğeri<br>
+https://www.tinkercad.com/things/fT6ROIC2zV2-5111solar-panelin-fotodiyot-esdegeri
+
+5.11.2.Solar Panel, 11V 1.60A<br>
+https://www.tinkercad.com/things/9T3I0zeCx7q-5112solar-panel-11v-160a
+
+5.11.3.Solar Panel Kurulumu - Atiny<br>
+https://www.tinkercad.com/things/1HExX63M0AB-5113solar-panel-setup/editel
+
+5.11.4.Opamlarla Güneş Takip sistemi<br>
+https://www.tinkercad.com/things/hIrijtUECyf-511solar-tracker/editel
+
+5.11.5.Guneş takip sistemi 1 eksen<br>
+https://www.tinkercad.com/things/jrug39f5n75-511panel-solar/editel
+
+5.11.6.Sollar panel sistemi <br> 
+https://www.tinkercad.com/things/d4UDRhTHAab-511solar-panel/editel
+
+5.11.7.Guneş takip sistemi  2 eksen - 1 <br>
+https://www.tinkercad.com/things/6etx094fweu-511gunes-takip-sistemi/editel
+
+5.11.8.Guneş takip sistemi  2 eksen – 2 <br>
+https://www.tinkercad.com/things/16YnkwAokqT-511solar-panel-circuit/editel
+
+5.11.9.Guneş takip sistemi 2 eksen – 3 <br>
+https://www.tinkercad.com/things/ijU1VcVl53H-5119gunes-takip-sistemi-2-eksen-3
+
+5.11.10.Gunes takip sistemi 2 eksen – 4 <br>
+https://www.tinkercad.com/things/ddyqyNsu5pi-511-dual-axis-solar-tracker-/editel
+
+5.11.11.Gunes takip sistemi 2 eksen LCD Display – 5 <br>
+https://www.tinkercad.com/things/gHEO8rllNzA-511solar-tracker/editel
+
+5.11.12.Gunes takip sistemi 2 eksen  – 6 <br>
+https://www.tinkercad.com/things/0Szy4YrmmZJ-511solar-panel-ckt/editel
+
+5.11.13.Gunes takip sistemi 4 eksen  <br>
+https://www.tinkercad.com/things/lmqY73Gs66n-511solar-tracker/editel
+
+5.11.14.Gunes paneli - tilt sensor <br>
+https://www.tinkercad.com/things/ikEZk3ZPWky-511gunes-pili-tilt-sensor/editel
  
 
 <H3>5.12.Vibration Motor</H3>
