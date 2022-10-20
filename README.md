@@ -192,7 +192,13 @@ https://www.tinkercad.com/things/f90vKEGL1xA-1121dc-motor-calistirma
 1.13.1.relay and bulb<br>
 https://www.tinkercad.com/things/3MPEHQJTE8F-1131relay-and-bulb
 
-<br>
+<H3>1.14.Optocoupler</H3>
+
+1.14.1.DC Motor - Ölçüm <br>
+https://www.tinkercad.com/things/bamFSA1SrMX-1141dc-motor-olcum/editel
+
+1.14.2.DC Motor - 4N35 optocoupler <br>
+https://www.tinkercad.com/things/2ku5Yay0SKh-copy-of-1141dc-motor-olcum/editel?tenant=circuits
 
 <H2><i>2.Dijital Giriş (Buton) (43 program)</i></H2>
 
