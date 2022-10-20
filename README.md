@@ -200,6 +200,14 @@ https://www.tinkercad.com/things/bamFSA1SrMX-1141dc-motor-olcum/editel
 1.14.2.DC Motor - 4N35 optocoupler <br>
 https://www.tinkercad.com/things/2ku5Yay0SKh-copy-of-1141dc-motor-olcum/editel?tenant=circuits
 
+1.14.3.Ampul - Ölçüm <br>
+https://www.tinkercad.com/things/dwNjWCK3L8r-1143ampul-olcum
+
+1.14.4.Ampul - 4N35 optocoupler <br>
+https://www.tinkercad.com/things/4kSkVQOVTrx-1144ampul-4n35-optocoupler
+
+
+
 <H2><i>2.Dijital Giriş (Buton) (43 program)</i></H2>
 
 <H3>2.1.Button</H3>
