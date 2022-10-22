@@ -220,6 +220,8 @@ https://www.tinkercad.com/things/ett9sLqcfIz-117174hc595-calisma/editel
 1.17.2.74HC595 for dongusu<br>
 https://www.tinkercad.com/things/deDzOAvMkn0-117274hc595-for-dongusu
 
+1.17.3.74HC595 - 16 giris/çıkış<br>
+https://www.tinkercad.com/things/47ebqSMAWGX-117374hc595-16-giriscikis
 
 <H2><i>2.Dijital Giriş (Buton) (43 program)</i></H2>
 
@@ -858,5 +860,88 @@ https://www.tinkercad.com/things/gAzb1KDWgG1-copy-of-i2c-controlled-micro-servo
 
 7.10.I2C ile otomasyon<br>
 https://www.tinkercad.com/things/6gj2v1qaJS7-copy-of-i2c-datenuebertragung-und-verbraucher-schalten 
+
+<H2><i>8.proses kontrol</i></H2>
+
+
+<H3> 8.1.proportional-oransal kontrol</H3>
+
+8.1.1.Opamp oransal kontrol<br>
+https://www.tinkercad.com/things/4LxiiThQQ5E-811opamp-oransal-kontrol-
+
+8.1.2.Opamp Proportional -2<br>
+https://www.tinkercad.com/things/gqNmoE6DLIa-copy-of-proportional/editel?tenant=circuits
+
+<H3>8.2.Integral Kontrol</H3>
+ 
+8.2.1.Opamp Integral circuit – 1<br>
+https://www.tinkercad.com/things/1dynWCKRfgG-copy-of-integral-circuit/editel?tenant=circuits
+
+8.2.2.Opamp Integral circuit – 2<br>
+https://www.tinkercad.com/things/lYFjBDJX8pq-copy-of-integral/editel?tenant=circuits
+
+<H3>8.3. Opamp derivate</H3>
+
+8.3.1.Opamp derivate – 1<br>
+https://www.tinkercad.com/things/08DGyNpnWrm-831opamp-derivate-1-
+
+
+<H3>8.4.PID Kontrol</H3>
+
+
+8.4.0.Opamp proportional controller<br>
+https://www.tinkercad.com/things/0ZHtu6invMY-841opamp-proportional-controller
+
+8.4.1.PID deigisim etkisini gozlemek<br>
+https://www.tinkercad.com/things/4VLRoRX2vvY-copy-of-pid/editel?tenant=circuits
+
+8.4.2.Arduino PID – 1<br>
+https://www.tinkercad.com/things/icK9F523Cqx-copy-of-proportional-reglerbaz/editel?tenant=circuits
+
+8.4.3.Proportional Temperature Control<br>
+https://www.tinkercad.com/things/csPLDGOipB6-copy-of-proportional-temperature-control/editel?tenant=circuits
+
+8.4.4.PID motor kontrol <br>
+https://www.tinkercad.com/things/iktkGt1Jwph-copy-of-pid-/editel?tenant=circuits
+
+8.4.5.PID motor kontrol – 3<br>
+https://www.tinkercad.com/things/f1ptLEZ082m-copy-of-pid/editel?tenant=circuits
+
+8.4.6.PID motor kontrol – 4<br>
+https://www.tinkercad.com/things/9VLQOn1x9lj-copy-of-pid-controller-arduino/editel?tenant=circuits
+
+8.4.7.PID motor kontrol – 5<br>
+https://www.tinkercad.com/things/a2LpAfrqgfA-copy-of-pid/editel?tenant=circuits
+
+8.4.8.PID Ultrasonic control -1 <br>
+https://www.tinkercad.com/things/4mgOjid3Die-copy-of-pid/editel?tenant=circuits
+
+8.4.9.PID motor kontrol – 6<br>
+https://www.tinkercad.com/things/1TsISutUvFw-copy-of-pid-arduino 
+
+<H3>8.5.Fuzzy Kontrol</H3>
+
+
+8.5.1.Fuzzy Logic -1 FAN controller  <br>
+https://www.tinkercad.com/things/cNz19TbZYpR-copy-of-v3-fuzzy-logic-fan-controller-/editel?tenant=circuits
+
+8.5.2.Fuzzy Logic -2 Tarefa Fuzzy<br>
+https://www.tinkercad.com/things/8W9gnBFJnGl-copy-of-tarefa-fuzzy/editel?tenant=circuits
+
+8.5.3.Fuzzy Logic - 3 implementasi fuzzy <br>
+https://www.tinkercad.com/things/3Hs2iqc0dhV-copy-of-implementasi-fuzzy/editel?tenant=circuits 
+
+8.5.4.Fuzzy Logic – 4<br>
+https://www.tinkercad.com/things/0N0qlQqsVJJ-copy-of-fuzzy-logic/editel?tenant=circuits
+
+8.5.5.Fuzzy Logic – 5 fuzzy mesin cuci<br>
+https://www.tinkercad.com/things/3Gs5T7y3Hyl-copy-of-fuzzy-mesin-cuci/editel?tenant=circuits
+
+8.5.6.Fuzzy Logic – 6  Kontrol Oksigen<br>
+https://www.tinkercad.com/things/aeHUKDpHJiv-copy-of-fuzzy-logic-kontrol-oksigen/editel?tenant=circuits
+
+8.5.7.Fuzzy Logic – 7  Kontrol OksigenFuzzy V.2 ADE<br>
+https://www.tinkercad.com/things/5D1x3PAVvtN-copy-of-fuzzy-v2-ade/editel?tenant=circuits
+
 
 <H2><i>8. Uygulamalar</i></H2>
