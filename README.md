@@ -944,4 +944,4 @@ https://www.tinkercad.com/things/aeHUKDpHJiv-copy-of-fuzzy-logic-kontrol-oksigen
 https://www.tinkercad.com/things/5D1x3PAVvtN-copy-of-fuzzy-v2-ade/editel?tenant=circuits
 
 
-<H2><i>8. Uygulamalar</i></H2>
+<H2><i>9. Uygulamalar</i></H2>
