@@ -76,8 +76,6 @@ https://www.tinkercad.com/things/0atyq61E0pH-1215trafik-isiklari
 1.2.16.Birbiri içinde geçen ledler <br> 
 https://www.tinkercad.com/things/d7PdRlG7xmt-1216birbiri-icinde-gecen-ledler
 
-<br> 
-
 <H3>1.3.LED fonksiyonlar</H3>
 1.3.1.Kullanıcı tanımlı fonksiyonlar<br>
 https://www.tinkercad.com/things/4nuzdfuWXex-131kullanici-tanimli-fonksiyonlar
@@ -87,8 +85,6 @@ https://www.tinkercad.com/things/dd3GX8Fs6Ut-132rastgele-fonksiyonlar-ve-switch-
 
 1.3.3.Bir tuşa basınca rastgele led yanıp söndürme<br>
 https://www.tinkercad.com/things/hZh3KGYb39M-133bir-tusa-basinca-rastgele-led-yanip-sondurme
-
-<br>
 
 <H3>1.4.RGB</H3>
 1.4.1. RGB temel ayrı üç ledi yakıp söndürme<br>
@@ -118,8 +114,6 @@ https://www.tinkercad.com/things/fODJwAKuHvu-148-rgb-mavi-renk-bandi
 1.4.9. RGB tüm renk bantları<br>
 https://www.tinkercad.com/things/f0dKQcMfoh4-149-rgb-tum-renk-bantlari
 
-<br>
-
 <H3>1.5.Sayaç</H3>
 1.5.1.Ortak katot display çalıştırma<br>
 https://www.tinkercad.com/things/ex2mXTD80lM-151ortak-katot-display-calistirma
@@ -142,8 +136,6 @@ https://www.tinkercad.com/things/i5EAu0beV6d-155cd4511-ile-0-999-sayac-yapimi
 1.6.1.LCD Merhaba Dünya<br>
 https://www.tinkercad.com/things/jydLPK6AQU2-161lcd-merhaba-dunya
 
-<br>
-
 <H3>1.7.Neopixel</H3>
 1.7.1.neopixel temel kullanımı<br>
 https://www.tinkercad.com/things/fCiHz3QkhP6-171neopixel-temel-kullanimi
@@ -153,8 +145,6 @@ https://www.tinkercad.com/things/0zMwlvE3tlf-172neopixeldizisi
 
 1.7.3.NeoPixel Strip<br>
 https://www.tinkercad.com/things/c0vWgipX58x-173neopixel-strip
-
-<br>
 
 <H3>1.8.Transistör Çıkışı kullanmak</H3>
 
@@ -170,11 +160,17 @@ https://www.tinkercad.com/things/575kLcVnIhp-183transistor-surme-emiter-direnci-
 1.8.4.transistor sürme - harici güç kaynağı kullanmak<br>
 https://www.tinkercad.com/things/eVYdkolbUpU-copy-of-183transistor-surme-emiter-direnci-ve-kondansator-etkisi/editel?tenant=circuits
 
+<H3>1.9.MOSFET Çıkışı kullanmak</H3>
+
 1.9.1.nmosfet surme<br>
 https://www.tinkercad.com/things/9uvck10Sk24-191nmosfet-surme
 
 1.9.2.nmos transistor sürme - harici güç kaynağı kullanmak<br>
 https://www.tinkercad.com/things/dGDUXllbpOL-192nmos-transistor-surme-harici-guc-kaynagi-kullanmak
+
+1.9.3.Led desenlerinde nmos kullanmak <br>
+https://www.tinkercad.com/things/5GFu2O1JsU3-193led-desenlerinde-nmos-kullanmak
+
 
 <H3>1.11.Servo Motor</H3>
 1.11.1.servo motor kontrolü<br>
@@ -206,6 +202,23 @@ https://www.tinkercad.com/things/dwNjWCK3L8r-1143ampul-olcum
 1.14.4.Ampul - 4N35 optocoupler <br>
 https://www.tinkercad.com/things/4kSkVQOVTrx-1144ampul-4n35-optocoupler
 
+<H3>1.16.74HC4017 Kullanımı</H3>
+https://www.tinkercad.com/dashboard?type=circuits&collection=projects&id=ibpvP3Ec9B9
+
+1.16.1.74HC4017 ff kullanımı <br>
+https://www.tinkercad.com/things/3wrQRDHQHwA-116174hc4017-ff-kullanimi
+
+1.16.2.74HC4017 - 20 giris/cikis<br>
+https://www.tinkercad.com/things/2SprrHwI2Vh-116274hc4017-20-giriscikis
+
+
+<H3>1.17. 74HC595 çoklayıcı kullanmak</H3> 
+
+1.17.1.74HC595 çoklayıcı olarak kullanmak <br>
+https://www.tinkercad.com/things/ett9sLqcfIz-117174hc595-calisma/editel
+
+1.17.2.74HC595 for dongusu<br>
+https://www.tinkercad.com/things/deDzOAvMkn0-117274hc595-for-dongusu
 
 
 <H2><i>2.Dijital Giriş (Buton) (43 program)</i></H2>
